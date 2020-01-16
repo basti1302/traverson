@@ -98,7 +98,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-mocha": "^1.2.0",
     "grunt-mocha-test": "^0.13.3",
-    "husky": "^4.0.3",
+    "husky": "^4.0.10",
     "load-grunt-tasks": "^3.5.2",
     "mocha": "^5.2.0",
     "poll-forever": "^1.0.0",
